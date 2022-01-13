@@ -1,8 +1,9 @@
-# React Forms - Adding Fields
+# Practice: React Forms - Adding Fields
 
-In this practice you will continue building out your `Contact Us` form by incorporating `<textarea>` and `<select>` elements.
+In this practice you will continue building out your `Contact Us` form by
+incorporating `<textarea>` and `<select>` elements.
 
-## Set up
+## Setup
 
 Click the `Download Project` button at the bottom of this page to go to the
 starter repo, then load the repo into [CodeSandbox].
@@ -248,6 +249,6 @@ export default ContactUs;
 
 **Congratulations!** In this practice you have learned how to
 
-- Create `textarea` and `select` fields in a React form
+- Create `<textarea>` and `<select>` fields in a React form
 
 [CodeSandbox]: https://www.codesandbox.io
