@@ -56,7 +56,7 @@ function ContactUs() {
       email,
       phone,
       comments,
-      submittedOn: new Date(),
+      submittedOn: new Date()
     };
 
     console.log(contactUsInformation);
@@ -173,7 +173,7 @@ function ContactUs(props) {
       phone,
       comments,
       phoneType,
-      submittedOn: new Date(),
+      submittedOn: new Date()
     };
 
     console.log(contactUsInformation);
