@@ -249,6 +249,6 @@ export default ContactUs;
 
 **Congratulations!** In this practice you have learned how to
 
-- Create `<textarea>` and `<select>` fields in a React form
+1. Create `<textarea>` and `<select>` fields in a React form
 
 [CodeSandbox]: https://www.codesandbox.io
