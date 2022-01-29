@@ -14,7 +14,7 @@ In a regular HTML form, the value for a `<textarea>` element is defined by its
 inner content:
 
 ```html
-  <textarea>This is the value for the text area element.</textarea>
+<textarea>This is the value for the text area element.</textarea>
 ```
 
 In React JSX, a `<textarea>` element uses a `value` attribute instead of its
